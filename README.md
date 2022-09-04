@@ -10,6 +10,8 @@ After filtering, 35 features were selected corresponding to different player abi
 
 See full report [HERE](https://github.com/mbdelaresma/football-position-classification/blob/main/FinalReport.ipynb)
 
+![image](https://user-images.githubusercontent.com/71246479/188298459-04dbe876-c9b9-4200-a48d-c5d382d339c8.png)
+
 # Highlights
 
 1. Shannon Entropy balance can be used to determine the imbalance of a multi-class dataset.
